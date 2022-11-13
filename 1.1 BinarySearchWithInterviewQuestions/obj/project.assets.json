@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taufique.azad\\Repos\\DSA\\BinarySearchWithInterviewQuestions\\BinarySearchWithInterviewQuestions.csproj",
+      "projectUniqueName": "C:\\Users\\taufique.azad\\Repos\\DSA\\1.1 BinarySearchWithInterviewQuestions\\BinarySearchWithInterviewQuestions.csproj",
       "projectName": "BinarySearchWithInterviewQuestions",
-      "projectPath": "C:\\Users\\taufique.azad\\Repos\\DSA\\BinarySearchWithInterviewQuestions\\BinarySearchWithInterviewQuestions.csproj",
+      "projectPath": "C:\\Users\\taufique.azad\\Repos\\DSA\\1.1 BinarySearchWithInterviewQuestions\\BinarySearchWithInterviewQuestions.csproj",
       "packagesPath": "C:\\Users\\taufique.azad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taufique.azad\\Repos\\DSA\\BinarySearchWithInterviewQuestions\\obj\\",
+      "outputPath": "C:\\Users\\taufique.azad\\Repos\\DSA\\1.1 BinarySearchWithInterviewQuestions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taufique.azad\\AppData\\Roaming\\NuGet\\NuGet.Config",
