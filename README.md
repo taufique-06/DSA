@@ -11,4 +11,6 @@
     1.1.5 - Find position of an element in a sorted array of infinite numbers
     1.1.6 - Peak Index in a Mountain Array
       What is Mountain Array? Mountain Array also known as bitonic array which value first increases and then decreases. For example int[] arr = {2,4,6,8,10, 6,4,3,2};
+      Now, which algorithm can be used? Binary Search as it can be seen that first half is sorted in ascending order and second half is sorted in descending order. 
+    1.1.7 - Find Peak Element https://leetcode.com/problems/find-peak-element/
     
