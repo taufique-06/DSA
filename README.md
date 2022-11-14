@@ -14,3 +14,10 @@
       Now, which algorithm can be used? Binary Search as it can be seen that first half is sorted in ascending order and second half is sorted in descending order. 
     1.1.7 - Find Peak Element https://leetcode.com/problems/find-peak-element/
     1.1.8 - Find in Mountain Array: https://leetcode.com/problems/find-in-mountain-array/
+    1.1.9 - Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
+      What is Rotated Array?
+        -Let's Clear with a example
+        int[] arr = {2,4,6,8,10,12} (This array is unrotated)
+        int[] arr = {12,2,4,6,8,10} (This is the array after 1st rotation)
+        int[] arr = {12,10,2,4,6,8} (This is the array after 2nd rotation) 
+ 
