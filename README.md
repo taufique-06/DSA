@@ -13,4 +13,4 @@
       What is Mountain Array? Mountain Array also known as bitonic array which value first increases and then decreases. For example int[] arr = {2,4,6,8,10, 6,4,3,2};
       Now, which algorithm can be used? Binary Search as it can be seen that first half is sorted in ascending order and second half is sorted in descending order. 
     1.1.7 - Find Peak Element https://leetcode.com/problems/find-peak-element/
-    
+    1.1.8 - Find in Mountain Array: https://leetcode.com/problems/find-in-mountain-array/
