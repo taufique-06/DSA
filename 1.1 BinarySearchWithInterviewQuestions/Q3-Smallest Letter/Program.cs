@@ -19,11 +19,11 @@ static char findingSmallestLetter(char[] arr, char target)
 
         if (target > arr[mid])
         {
-            end = mid - 1;
+            start = mid + 1;
         }
         else
         {
-            start = mid + 1;
+            end = mid - 1;
         } 
     }
     return arr[start % arr.Length];
