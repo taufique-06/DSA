@@ -23,8 +23,6 @@
  
  2. Bubble Sort - comparison-based algorithm in which each pair of adjacent elements is compared and the elements are swapped if they are not in order. While doing that,                   with the first pass through the array, the largest come to the very end. 
  3. Selection Sort - Find the largest element and put it its current index. Or find the smallest element and put it its current index
- 4. Insertion Sort - In simple terms: if you have an array with 5 elements, then this algorithm will sort first 2 elements first. Then first 3 elements, then first 4 elements and then first 5 elements. 
+ 4. Insertion Sort - In simple terms: if you have an array with 5 elements, then this algorithm will sort first 2 elements first. Then first 3 elements, then first 4 elements and then first 5 elements. It is good to use when the array is partially sorted. 
 
 ![image](https://user-images.githubusercontent.com/85470428/209861651-d44e428d-2072-4f06-9c42-4dbb538cf0ab.png)
-
-
