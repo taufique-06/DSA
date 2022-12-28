@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\bin\Debug\net6.0\3. Selection Sort.exe
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\bin\Debug\net6.0\3. Selection Sort.deps.json
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\bin\Debug\net6.0\3. Selection Sort.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\bin\Debug\net6.0\3. Selection Sort.dll
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\bin\Debug\net6.0\3. Selection Sort.pdb
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.dll
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\refint\3. Selection Sort.dll
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.pdb
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\3. Selection Sort.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\3. Selection Sort\obj\Debug\net6.0\ref\3. Selection Sort.dll
