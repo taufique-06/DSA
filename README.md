@@ -26,3 +26,5 @@
  4. Insertion Sort - In simple terms: if you have an array with 5 elements, then this algorithm will sort first 2 elements first. Then first 3 elements, then first 4 elements and then first 5 elements. It is good to use when the array is partially sorted. 
 
 ![image](https://user-images.githubusercontent.com/85470428/209861651-d44e428d-2072-4f06-9c42-4dbb538cf0ab.png)
+
+5. Cycle Sort - 
