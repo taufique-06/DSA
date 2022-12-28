@@ -27,4 +27,4 @@
 
 ![image](https://user-images.githubusercontent.com/85470428/209861651-d44e428d-2072-4f06-9c42-4dbb538cf0ab.png)
 
-5. Cycle Sort - 
+5. Cyclic Sort - Cycle sort is a comparison sorting algorithm which forces array to be factored into the number of cycles where each of them can be rotated to produce a sorted array. This algorithm should be used when given numbers from range 1 to N. So whenever there is a question which say something that is in range from 1 to N, cyclic sort should be used. 
