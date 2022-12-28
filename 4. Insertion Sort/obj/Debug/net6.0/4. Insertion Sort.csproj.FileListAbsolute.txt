@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\bin\Debug\net6.0\4. Insertion Sort.exe
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\bin\Debug\net6.0\4. Insertion Sort.deps.json
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\bin\Debug\net6.0\4. Insertion Sort.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\bin\Debug\net6.0\4. Insertion Sort.dll
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\bin\Debug\net6.0\4. Insertion Sort.pdb
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.dll
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\refint\4. Insertion Sort.dll
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.pdb
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\4. Insertion Sort.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\4. Insertion Sort\obj\Debug\net6.0\ref\4. Insertion Sort.dll
