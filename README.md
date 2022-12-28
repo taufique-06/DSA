@@ -22,7 +22,7 @@
         int[] arr = {12,10,2,4,6,8} (This is the array after 2nd rotation) 
  
  2. Bubble Sort - comparison-based algorithm in which each pair of adjacent elements is compared and the elements are swapped if they are not in order. While doing that,                   with the first pass through the array, the largest come to the very end. 
- 3. Selection Sort - 
+ 3. Selection Sort - Find the largest element and put it its current index.
  4. Inserting Sort - 
 
 
