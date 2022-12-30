@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\bin\Debug\net6.0\Q5-SetMisMatch.exe
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\bin\Debug\net6.0\Q5-SetMisMatch.deps.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\bin\Debug\net6.0\Q5-SetMisMatch.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\bin\Debug\net6.0\Q5-SetMisMatch.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\bin\Debug\net6.0\Q5-SetMisMatch.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\refint\Q5-SetMisMatch.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\Q5-SetMisMatch.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q5-SetMisMatch\obj\Debug\net6.0\ref\Q5-SetMisMatch.dll
