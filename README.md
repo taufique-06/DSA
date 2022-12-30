@@ -35,3 +35,4 @@
   
     5.1.1 - https://leetcode.com/problems/missing-number/
     5.1.2 - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+    5.1.3 - https://leetcode.com/problems/find-the-duplicate-number/
