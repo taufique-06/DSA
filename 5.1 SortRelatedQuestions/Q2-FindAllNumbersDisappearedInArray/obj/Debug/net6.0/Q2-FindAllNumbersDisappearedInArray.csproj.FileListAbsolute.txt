@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\bin\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.exe
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\bin\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.deps.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\bin\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\bin\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\bin\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\refint\Q2-FindAllNumbersDisappearedInArray.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\Q2-FindAllNumbersDisappearedInArray.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q2-FindAllNumbersDisappearedInArray\obj\Debug\net6.0\ref\Q2-FindAllNumbersDisappearedInArray.dll

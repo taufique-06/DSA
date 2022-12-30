@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\bin\Debug\net6.0\Q3-FindTheDuplicateNumber.exe
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\bin\Debug\net6.0\Q3-FindTheDuplicateNumber.deps.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\bin\Debug\net6.0\Q3-FindTheDuplicateNumber.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\bin\Debug\net6.0\Q3-FindTheDuplicateNumber.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\bin\Debug\net6.0\Q3-FindTheDuplicateNumber.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\refint\Q3-FindTheDuplicateNumber.dll
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.pdb
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\Q3-FindTheDuplicateNumber.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\5.1 SortRelatedQuestions\Q3-FindTheDuplicateNumber\obj\Debug\net6.0\ref\Q3-FindTheDuplicateNumber.dll
