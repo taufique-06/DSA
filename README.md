@@ -37,3 +37,5 @@
     5.1.2 - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
     5.1.3 - https://leetcode.com/problems/find-the-duplicate-number/
     5.1.4 - https://leetcode.com/problems/find-all-duplicates-in-an-array/
+    5.1.5 - https://leetcode.com/problems/set-mismatch/
+    5.1.6 - 
