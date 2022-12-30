@@ -27,7 +27,9 @@
 
 ![image](https://user-images.githubusercontent.com/85470428/209861651-d44e428d-2072-4f06-9c42-4dbb538cf0ab.png)
 
-5. Cyclic Sort - Cycle sort is a comparison sorting algorithm which forces array to be factored into the number of cycles where each of them can be rotated to produce a sorted array. This algorithm should be used when given numbers from range 1 to N. So whenever there is a question which say something that is in range from 1 to N, cyclic sort should be used. Note: In cylic sort, when you are getting array from range 1 to N, then the currentIndex will be arr[i] - 1. However, if the given numbers from 0 to N, then currentIndex = arr[i].
+5. Cyclic Sort - Cycle sort is a comparison sorting algorithm which forces array to be factored into the number of cycles where each of them can be rotated to produce a sorted array. This algorithm should be used when given numbers from range 1 to N. So whenever there is a question which say something that is in range from 1 to N, cyclic sort should be used. 
+  
+  Note: In cylic sort, when you are getting array from range 1 to N, then the currentIndex will be arr[i] - 1. However, if the given numbers from 0 to N, then                 currentIndex = arr[i]. In other words, from range 1 to N, the value is equal to index + 1.
   
   5.1 Sort Related Questions:
   
