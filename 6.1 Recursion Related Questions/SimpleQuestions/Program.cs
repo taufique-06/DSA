@@ -3,6 +3,7 @@ Console.WriteLine(Factorial(5));
 Console.WriteLine(Sum(5));
 Console.WriteLine(SumOfDigits(12345));
 Console.WriteLine(ProductOfDigits(12345));
+Console.WriteLine(ReverseNumber(12345));
 
 static int Factorial(int v)
 {
@@ -40,6 +41,17 @@ static int SumOfDigits(int v)
 static int ProductOfDigits(int v)
 {
     if (v%10 == v)
+    {
+        return v;
+    }
+    return (v % 10) * ProductOfDigits(v / 10);
+}
+
+//Reverse a number
+
+static int ReverseNumber(int v)
+{
+    if (v % 10 == v)
     {
         return v;
     }
