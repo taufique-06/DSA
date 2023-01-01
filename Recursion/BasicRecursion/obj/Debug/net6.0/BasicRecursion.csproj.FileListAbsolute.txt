@@ -1,0 +1,15 @@
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\bin\Debug\net6.0\BasicRecursion.exe
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\bin\Debug\net6.0\BasicRecursion.deps.json
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\bin\Debug\net6.0\BasicRecursion.runtimeconfig.json
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\bin\Debug\net6.0\BasicRecursion.dll
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\bin\Debug\net6.0\BasicRecursion.pdb
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.dll
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\refint\BasicRecursion.dll
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.pdb
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\BasicRecursion.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\DSA\Recursion\BasicRecursion\obj\Debug\net6.0\ref\BasicRecursion.dll
